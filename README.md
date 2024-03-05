@@ -1,5 +1,5 @@
 #### Requirements
-`PHP 8+` `Nginx` `MySQL` `Composer` `Git`
+`PHP 8.1` `Nginx` `MySQL` `Composer` `Git`
 
 ---
 #### Deployment script
